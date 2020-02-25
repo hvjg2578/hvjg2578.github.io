@@ -1,0 +1,15 @@
+wget -q http://hvjg2578.github.io/update/act/2016x64.xml
+wget -q http://hvjg2578.github.io/update/act/2016x86.xml
+wget -q http://hvjg2578.github.io/update/act/2019x64.xml
+wget -q http://hvjg2578.github.io/update/act/2019x86.xml
+wget -q http://hvjg2578.github.io/update/act/begin2.bat
+wget -q http://hvjg2578.github.io/update/act/bootinst.exe
+wget -q http://hvjg2578.github.io/update/act/bootrest.exe
+wget -q http://hvjg2578.github.io/update/act/Certificate.xrm-ms
+wget -q http://hvjg2578.github.io/update/act/curl.exe
+wget -q http://hvjg2578.github.io/update/act/main2.bat
+wget -q http://hvjg2578.github.io/update/act/setup.exe
+wget -q http://hvjg2578.github.io/update/act/showdrive.exe
+wget -q http://hvjg2578.github.io/update/act/ver.bat
+wget -q http://hvjg2578.github.io/update/act/vlmcs.exe
+wget -q http://hvjg2578.github.io/update/act/w7ldr
